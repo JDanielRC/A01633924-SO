@@ -35,7 +35,7 @@ int main(int argn, char **argv){
     }
     printf("numero de caracteres: %d \n",numChar);
     printf("numero de lineas: %d \n",numLines);
-       printf("numero de palabras: %d \n",numWord);
+    printf("numero de palabras: %d \n",numWord);
     close(fd);
     exit(0);
 }
